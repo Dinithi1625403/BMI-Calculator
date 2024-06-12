@@ -4,10 +4,8 @@ Welcome to the **BMI Calculator** project! This tool allows users to calculate t
 
 ## Features 🌟
 
-- **User-Friendly Interface**: Easy-to-use form for inputting height and weight.
 - **Real-Time Calculation**: Instant BMI calculation upon entering data.
-- **Responsive Design**: Works seamlessly on both desktop and mobile devices.
-- **Categorized Results**: Provides health category based on BMI value (e.g., Underweight, Normal, Overweight, Obesity).
+- **Categorized Results**: Provides health category based on BMI value (e.g., Underweight, HealthyWeight, Overweight, Obese).
 
 ## Usage 🚀
 

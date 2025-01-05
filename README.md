@@ -2,7 +2,9 @@
 <p align="center"><img src="images/Screenshot.png" alt="project-image"></p>
 
 Welcome to the **BMI Calculator** project! This tool allows users to calculate their Body Mass Index (BMI) using a simple web interface built with HTML, CSS, and JavaScript. 
+# 🚀 Demo
 
+[videos/demo.mp4](videos/demo.mp4)
 ## Features 🌟
 
 - **Real-Time Calculation**: Instant BMI calculation upon entering data.
